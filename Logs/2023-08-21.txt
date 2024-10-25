@@ -1,0 +1,26 @@
+ 09:56:12  Application Started
+ 09:56:12  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 09:56:16  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\не опов.csv
+ 09:56:16  1. Converting CSV to XLSX successed
+ 09:56:16  2. Converting Data from XLSX successed
+ 09:56:16  3. Filling Table XLSX with data successed
+ 09:56:18  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\test1.xlsx
+ 09:56:18  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\test1.xlsx успешно сохранен
+ 09:56:20  4. Saving XLSX file successed
+ 09:56:24  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\не опов.csv
+ 09:56:24  1. Converting CSV to XLSX successed
+ 09:56:24  2. Converting Data from XLSX successed
+ 09:56:24  3. Filling Table XLSX with data successed
+ 09:56:27  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\test.xlsx
+ 09:56:27  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\test.xlsx успешно сохранен
+ 09:56:28  4. Saving XLSX file successed
+ 09:56:32  Application closed
+
+------------------------------------------------
+ 09:57:07  Application Started
+ 09:57:07  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 09:57:11  1. Converting CSV to XLSX successed
+ 09:57:11  !!! Error DoSpisokXLSX function, Error code = 'NoneType' object is not iterable
+ 09:57:13  Application closed
+
+------------------------------------------------

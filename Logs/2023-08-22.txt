@@ -1,0 +1,182 @@
+ 04:32:01  Application Started
+ 04:32:01  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 04:32:13  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\оповещ..csv
+ 04:32:16  1. Converting CSV to XLSX successed
+ 04:32:16  2. Converting Data from XLSX successed
+ 04:32:16  3. Filling Table XLSX with data successed
+ 04:32:19  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\test.xlsx
+ 04:32:19  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\test.xlsx успешно сохранен
+ 04:32:20  4. Saving XLSX file successed
+ 04:33:11  Application closed
+
+------------------------------------------------
+ 04:33:43  Application Started
+ 04:33:43  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 04:33:48  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\оповещ..csv
+ 04:33:50  1. Converting CSV to XLSX successed
+ 04:33:50  2. Converting Data from XLSX successed
+ 04:33:50  3. Filling Table XLSX with data successed
+ 04:33:52  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\test.xlsx
+ 04:33:52  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\test.xlsx успешно сохранен
+ 04:33:53  4. Saving XLSX file successed
+ 04:33:56  Application closed
+
+------------------------------------------------
+ 07:25:29  Application Started
+ 07:25:29  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 07:25:34  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\12.csv
+ 07:25:39  1. Converting CSV to XLSX successed
+ 07:25:39  2. Converting Data from XLSX successed
+ 07:25:39  3. Filling Table XLSX with data successed
+ 07:25:50  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\result12
+ 07:25:50  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\result12.xlsx успешно сохранен
+ 07:25:51  4. Saving XLSX file successed
+ 07:30:59  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\12212.csv
+ 07:31:05  1. Converting CSV to XLSX successed
+ 07:31:05  2. Converting Data from XLSX successed
+ 07:31:05  3. Filling Table XLSX with data successed
+ 07:31:16  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\result12212
+ 07:31:16  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\result12212.xlsx успешно сохранен
+ 07:31:17  4. Saving XLSX file successed
+ 07:33:35  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\мотриса.csv
+ 07:33:44  1. Converting CSV to XLSX successed
+ 07:33:44  !!! Error DoSpisokXLSX function, Error code = list index out of range
+ 07:35:01  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\мотриса.csv
+ 07:35:10  1. Converting CSV to XLSX successed
+ 07:35:10  !!! Error DoSpisokXLSX function, Error code = list index out of range
+ 07:35:26  Application closed
+
+------------------------------------------------
+ 07:35:31  Application Started
+ 07:35:31  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 07:35:33  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\мотриса.csv
+ 07:35:42  1. Converting CSV to XLSX successed
+ 07:35:42  !!! Error DoSpisokXLSX function, Error code = list index out of range
+ 07:37:25  Application Started
+ 07:37:25  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 07:37:28  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\мотриса.csv
+ 07:37:33  1. Converting CSV to XLSX successed
+ 07:37:34  !!! Error DoSpisokXLSX function, Error code = list index out of range
+ 07:49:20  Application Started
+ 07:49:20  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 07:49:23  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\мотриса.csv
+ 07:49:29  1. Converting CSV to XLSX successed
+ 07:49:29  2. Converting Data from XLSX successed
+ 07:49:29  3. Filling Table XLSX with data successed
+ 07:49:44  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultмотриса
+ 07:49:44  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultмотриса.xlsx успешно сохранен
+ 07:49:44  4. Saving XLSX file successed
+ 09:27:48  Application closed
+
+------------------------------------------------
+ 12:32:49  Application Started
+ 12:32:49  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 12:33:02  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\мотриса.csv
+ 12:33:07  1. Converting CSV to XLSX successed
+ 12:33:07  2. Converting Data from XLSX successed
+ 12:33:07  3. Filling Table XLSX with data successed
+ 12:33:22  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultмотриса.xlsx
+ 12:33:22  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultмотриса.xlsx успешно сохранен
+ 12:33:23  4. Saving XLSX file successed
+ 12:33:23  !!! Error DoSpisokXLSX function, Error code = division by zero
+ 12:35:31  Application closed
+
+------------------------------------------------
+ 12:35:42  Application Started
+ 12:35:42  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 12:35:45  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\мотриса.csv
+ 12:35:50  1. Converting CSV to XLSX successed
+ 12:35:50  2. Converting Data from XLSX successed
+ 12:35:50  3. Filling Table XLSX with data successed
+ 12:35:56  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultмотриса.xlsx
+ 12:35:56  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultмотриса.xlsx успешно сохранен
+ 12:35:56  4. Saving XLSX file successed
+ 12:35:56  !!! Error DoSpisokXLSX function, Error code = division by zero
+ 12:36:08  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\мотриса2.csv
+ 12:36:12  1. Converting CSV to XLSX successed
+ 12:36:12  !!! Error DoSpisokXLSX function, Error code = list index out of range
+ 12:37:48  Application Started
+ 12:37:48  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 12:37:51  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\мотриса.csv
+ 12:37:56  1. Converting CSV to XLSX successed
+ 12:37:56  2. Converting Data from XLSX successed
+ 12:37:56  3. Filling Table XLSX with data successed
+ 12:38:04  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultмотриса.xlsx
+ 12:38:04  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultмотриса.xlsx успешно сохранен
+ 12:38:06  4. Saving XLSX file successed
+ 12:38:15  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\12.csv
+ 12:38:18  1. Converting CSV to XLSX successed
+ 12:38:18  2. Converting Data from XLSX successed
+ 12:38:18  3. Filling Table XLSX with data successed
+ 12:38:21  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\result12(success).xlsx
+ 12:38:21  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\result12(success).xlsx успешно сохранен
+ 12:38:23  4. Saving XLSX file successed
+ 12:38:32  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\12212.csv
+ 12:38:35  1. Converting CSV to XLSX successed
+ 12:38:35  2. Converting Data from XLSX successed
+ 12:38:35  3. Filling Table XLSX with data successed
+ 12:38:39  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\result12212(success).xlsx
+ 12:38:39  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\result12212(success).xlsx успешно сохранен
+ 12:38:41  4. Saving XLSX file successed
+ 12:38:46  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\проверка спязи.csv
+ 12:38:54  1. Converting CSV to XLSX successed
+ 12:38:54  !!! Error DoSpisokXLSX function, Error code = list index out of range
+ 12:39:30  Application Started
+ 12:39:30  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 12:39:33  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\мотриса2.csv
+ 12:39:38  1. Converting CSV to XLSX successed
+ 12:39:38  !!! Error DoSpisokXLSX function, Error code = list index out of range
+ 12:41:36  Application Started
+ 12:41:36  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 12:41:42  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\мотриса2.csv
+ 12:41:47  1. Converting CSV to XLSX successed
+ 12:41:47  2. Converting Data from XLSX successed
+ 12:41:47  3. Filling Table XLSX with data successed
+ 12:41:57  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultмотриса2.xlsx
+ 12:41:57  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultмотриса2.xlsx успешно сохранен
+ 12:41:58  4. Saving XLSX file successed
+ 12:47:14  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\проверка спязи.csv
+ 12:47:22  1. Converting CSV to XLSX successed
+ 12:47:22  2. Converting Data from XLSX successed
+ 12:47:22  3. Filling Table XLSX with data successed
+ 12:47:38  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx
+ 12:47:38  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx успешно сохранен
+ 12:47:38  4. Saving XLSX file successed
+ 12:50:54  Application Started
+ 12:50:54  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 12:51:01  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\мотриса.csv
+ 12:51:05  1. Converting CSV to XLSX successed
+ 12:51:06  2. Converting Data from XLSX successed
+ 12:51:06  3. Filling Table XLSX with data successed
+ 12:51:10  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultмотриса.xlsx
+ 12:51:10  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultмотриса.xlsx успешно сохранен
+ 12:51:10  4. Saving XLSX file successed
+ 12:51:32  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\мотриса2.csv
+ 12:51:37  1. Converting CSV to XLSX successed
+ 12:51:37  2. Converting Data from XLSX successed
+ 12:51:37  3. Filling Table XLSX with data successed
+ 12:51:41  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultмотриса2.xlsx
+ 12:51:41  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultмотриса2.xlsx успешно сохранен
+ 12:51:42  4. Saving XLSX file successed
+ 12:51:59  Application closed
+
+------------------------------------------------
+ 12:52:57  Application Started
+ 12:52:57  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 12:53:01  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\проверка спязи.csv
+ 12:53:07  1. Converting CSV to XLSX successed
+ 12:53:08  2. Converting Data from XLSX successed
+ 12:53:08  3. Filling Table XLSX with data successed
+ 12:53:13  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx
+ 12:53:13  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx успешно сохранен
+ 12:53:14  4. Saving XLSX file successed
+ 12:53:24  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\список 1.csv
+ 12:53:27  1. Converting CSV to XLSX successed
+ 12:53:27  2. Converting Data from XLSX successed
+ 12:53:27  3. Filling Table XLSX with data successed
+ 12:53:31  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\1
+ 12:53:31  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\1.xlsx успешно сохранен
+ 12:53:32  4. Saving XLSX file successed
+ 12:53:41  Application closed
+
+------------------------------------------------

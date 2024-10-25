@@ -1,0 +1,332 @@
+ 05:48:41  Application Started
+ 05:48:41  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 05:48:47  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\проверка спязи.csv
+ 05:49:01  1. Converting CSV to XLSX successed
+ 05:49:01  Error in ChangeTimeFunction, Error code = strptime() argument 1 must be str, not list
+ 05:49:01  !!! Error DoSpisokXLSX function, Error code = can only concatenate list (not "str") to list
+ 05:52:31  Application Started
+ 05:52:31  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 05:52:34  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\проверка спязи.csv
+ 05:52:34  1. Converting CSV to XLSX successed
+ 05:52:34  2. Converting Data from XLSX successed
+ 05:52:34  3. Filling Table XLSX with data successed
+ 05:52:39  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx
+ 05:52:39  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx успешно сохранен
+ 05:52:41  4. Saving XLSX file successed
+ 05:53:29  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\мотриса2.csv
+ 05:53:29  1. Converting CSV to XLSX successed
+ 05:53:29  2. Converting Data from XLSX successed
+ 05:53:29  3. Filling Table XLSX with data successed
+ 05:53:32  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultмотриса2.xlsx
+ 05:53:32  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultмотриса2.xlsx успешно сохранен
+ 05:53:32  4. Saving XLSX file successed
+ 05:55:25  Application Started
+ 05:55:25  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 05:55:28  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\мотриса2.csv
+ 05:55:28  1. Converting CSV to XLSX successed
+ 05:55:28  2. Converting Data from XLSX successed
+ 05:55:28  3. Filling Table XLSX with data successed
+ 05:55:34  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultмотриса2.xlsx
+ 05:55:34  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultмотриса2.xlsx успешно сохранен
+ 05:55:35  4. Saving XLSX file successed
+ 05:55:59  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\тест опер.csv
+ 05:55:59  1. Converting CSV to XLSX successed
+ 05:55:59  2. Converting Data from XLSX successed
+ 05:55:59  3. Filling Table XLSX with data successed
+ 05:56:10  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultoper
+ 05:56:10  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultoper.xlsx успешно сохранен
+ 05:56:11  4. Saving XLSX file successed
+ 05:56:31  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\список 1.csv
+ 05:56:31  1. Converting CSV to XLSX successed
+ 05:56:31  2. Converting Data from XLSX successed
+ 05:56:31  3. Filling Table XLSX with data successed
+ 05:56:45  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultсписок1
+ 05:56:45  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultсписок1.xlsx успешно сохранен
+ 05:56:46  4. Saving XLSX file successed
+ 05:58:34  Application Started
+ 05:58:34  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 05:58:42  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\список 1.csv
+ 05:58:42  1. Converting CSV to XLSX successed
+ 05:58:42  2. Converting Data from XLSX successed
+ 05:58:42  3. Filling Table XLSX with data successed
+ 05:58:46  4. Saving XLSX file successed
+ 05:59:00  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\12.csv
+ 05:59:00  1. Converting CSV to XLSX successed
+ 05:59:00  2. Converting Data from XLSX successed
+ 05:59:00  3. Filling Table XLSX with data successed
+ 05:59:03  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\result12(success).xlsx
+ 05:59:03  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\result12(success).xlsx успешно сохранен
+ 05:59:05  4. Saving XLSX file successed
+ 06:00:51  Application Started
+ 06:00:51  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 06:01:00  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\12.csv
+ 06:01:00  1. Converting CSV to XLSX successed
+ 06:01:00  !!! Error DoSpisokXLSX function, Error code = list index out of range
+ 06:01:31  Application Started
+ 06:01:31  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 06:01:33  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\12.csv
+ 06:01:33  1. Converting CSV to XLSX successed
+ 06:01:33  2. Converting Data from XLSX successed
+ 06:01:33  3. Filling Table XLSX with data successed
+ 06:03:13  Application Started
+ 06:03:13  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 06:03:16  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\мотриса.csv
+ 06:03:16  1. Converting CSV to XLSX successed
+ 06:03:16  !!! Error DoSpisokXLSX function, Error code = list index out of range
+ 06:03:36  Application Started
+ 06:03:36  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 06:03:38  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\12.csv
+ 06:03:38  1. Converting CSV to XLSX successed
+ 06:03:38  !!! Error DoSpisokXLSX function, Error code = list index out of range
+ 06:04:38  Application Started
+ 06:04:38  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 06:04:41  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\12.csv
+ 06:04:41  1. Converting CSV to XLSX successed
+ 06:04:41  !!! Error DoSpisokXLSX function, Error code = 'datetime.timedelta' object has no attribute 'split'
+ 06:04:59  Application Started
+ 06:05:00  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 06:05:03  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\12.csv
+ 06:05:03  1. Converting CSV to XLSX successed
+ 06:05:03  !!! Error DoSpisokXLSX function, Error code = list index out of range
+ 06:05:28  Application Started
+ 06:05:28  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 06:05:31  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\12.csv
+ 06:05:31  1. Converting CSV to XLSX successed
+ 06:05:31  !!! Error DoSpisokXLSX function, Error code = list index out of range
+ 06:05:46  Application Started
+ 06:05:46  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 06:05:48  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\12.csv
+ 06:05:48  1. Converting CSV to XLSX successed
+ 06:05:48  2. Converting Data from XLSX successed
+ 06:05:48  3. Filling Table XLSX with data successed
+ 06:05:58  4. Saving XLSX file successed
+ 06:07:48  Application Started
+ 06:07:48  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 06:07:51  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\12.csv
+ 06:07:51  1. Converting CSV to XLSX successed
+ 06:07:51  2. Converting Data from XLSX successed
+ 06:07:51  3. Filling Table XLSX with data successed
+ 06:07:59  4. Saving XLSX file successed
+ 06:08:01  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\проверка спязи.csv
+ 06:08:01  1. Converting CSV to XLSX successed
+ 06:08:01  2. Converting Data from XLSX successed
+ 06:08:01  3. Filling Table XLSX with data successed
+ 06:08:04  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx
+ 06:08:04  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx успешно сохранен
+ 06:08:06  4. Saving XLSX file successed
+ 06:08:27  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\список 2.csv
+ 06:08:27  1. Converting CSV to XLSX successed
+ 06:08:27  2. Converting Data from XLSX successed
+ 06:08:27  3. Filling Table XLSX with data successed
+ 06:08:35  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\result2
+ 06:08:35  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\result2.xlsx успешно сохранен
+ 06:08:36  4. Saving XLSX file successed
+ 06:08:42  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\список 3.csv
+ 06:08:42  1. Converting CSV to XLSX successed
+ 06:08:42  2. Converting Data from XLSX successed
+ 06:08:42  3. Filling Table XLSX with data successed
+ 06:08:48  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\result3
+ 06:08:48  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\result3.xlsx успешно сохранен
+ 06:08:49  4. Saving XLSX file successed
+ 06:09:35  Application closed
+
+------------------------------------------------
+ 07:10:13  Application Started
+ 07:10:13  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 07:10:25  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\проверка спязи.csv
+ 07:10:25  1. Converting CSV to XLSX successed
+ 07:10:25  2. Converting Data from XLSX successed
+ 07:10:25  3. Filling Table1 XLSX with data successed
+ 07:10:25  !!! Error DoSpisokXLSX function, Error code = Cannot convert ('Отчёт по оповещению должностных лиц \nЗападно-Сибирской железной дороги',) to Excel
+ 07:11:52  Application Started
+ 07:11:52  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 07:11:56  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\проверка спязи.csv
+ 07:11:56  1. Converting CSV to XLSX successed
+ 07:11:56  2. Converting Data from XLSX successed
+ 07:11:56  3. Filling Table1 XLSX with data successed
+ 07:11:56  !!! Error DoSpisokXLSX function, Error code = Cannot convert ('Отчёт по оповещению должностных лиц Западно-Сибирской железной дороги',) to Excel
+ 07:12:16  Application Started
+ 07:12:16  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 07:12:22  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\проверка спязи.csv
+ 07:12:22  1. Converting CSV to XLSX successed
+ 07:12:22  2. Converting Data from XLSX successed
+ 07:12:22  3. Filling Table1 XLSX with data successed
+ 07:12:22  !!! Error DoSpisokXLSX function, Error code = 'MergedCell' object attribute 'value' is read-only
+ 07:13:16  Application Started
+ 07:13:16  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 07:13:20  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\проверка спязи.csv
+ 07:13:20  1. Converting CSV to XLSX successed
+ 07:13:20  2. Converting Data from XLSX successed
+ 07:13:20  3. Filling Table1 XLSX with data successed
+ 07:13:20  !!! Error DoSpisokXLSX function, Error code = 'MergedCell' object attribute 'value' is read-only
+ 07:14:54  Application Started
+ 07:14:54  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 07:14:57  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\проверка спязи.csv
+ 07:14:57  1. Converting CSV to XLSX successed
+ 07:14:57  2. Converting Data from XLSX successed
+ 07:14:57  3. Filling Table1 XLSX with data successed
+ 07:14:57  4. Filling Table12 XLSX with data successed
+ 07:15:07  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx
+ 07:15:07  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx успешно сохранен
+ 07:15:07  5. Saving XLSX file successed
+ 07:24:22  Application Started
+ 07:24:22  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 07:24:28  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\проверка спязи.csv
+ 07:24:28  1. Converting CSV to XLSX successed
+ 07:24:28  2. Converting Data from XLSX successed
+ 07:24:28  3. Filling Table1 XLSX with data successed
+ 07:24:28  4. Filling Table12 XLSX with data successed
+ 07:24:33  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx
+ 07:24:33  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx успешно сохранен
+ 07:24:41  5. Saving XLSX file successed
+ 07:28:08  Application Started
+ 07:28:08  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 07:28:15  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\проверка спязи.csv
+ 07:28:15  1. Converting CSV to XLSX successed
+ 07:28:15  2. Converting Data from XLSX successed
+ 07:28:15  3. Filling Table1 XLSX with data successed
+ 07:28:15  4. Filling Table12 XLSX with data successed
+ 07:28:25  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx
+ 07:28:25  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx успешно сохранен
+ 07:28:27  5. Saving XLSX file successed
+ 07:29:13  Application Started
+ 07:29:13  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 07:29:16  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\проверка спязи.csv
+ 07:29:16  1. Converting CSV to XLSX successed
+ 07:29:16  2. Converting Data from XLSX successed
+ 07:29:16  3. Filling Table1 XLSX with data successed
+ 07:29:16  4. Filling Table12 XLSX with data successed
+ 07:29:51  Application Started
+ 07:29:51  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 07:29:54  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\проверка спязи.csv
+ 07:29:54  1. Converting CSV to XLSX successed
+ 07:29:54  2. Converting Data from XLSX successed
+ 07:29:54  3. Filling Table1 XLSX with data successed
+ 07:29:54  4. Filling Table12 XLSX with data successed
+ 07:29:57  5. Saving XLSX file successed
+ 07:30:21  Application Started
+ 07:30:21  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 07:30:28  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\проверка спязи.csv
+ 07:30:28  1. Converting CSV to XLSX successed
+ 07:30:28  2. Converting Data from XLSX successed
+ 07:30:28  3. Filling Table1 XLSX with data successed
+ 07:30:29  4. Filling Table12 XLSX with data successed
+ 07:30:33  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx
+ 07:30:33  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx успешно сохранен
+ 07:30:34  5. Saving XLSX file successed
+ 07:32:16  Application Started
+ 07:32:16  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 07:32:20  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\проверка спязи.csv
+ 07:32:20  1. Converting CSV to XLSX successed
+ 07:32:20  2. Converting Data from XLSX successed
+ 07:32:20  3. Filling Table1 XLSX with data successed
+ 07:32:20  4. Filling Table12 XLSX with data successed
+ 07:32:23  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx
+ 07:32:23  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx успешно сохранен
+ 07:32:25  5. Saving XLSX file successed
+ 07:33:20  Application Started
+ 07:33:20  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 07:33:27  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\проверка спязи.csv
+ 07:33:27  1. Converting CSV to XLSX successed
+ 07:33:27  2. Converting Data from XLSX successed
+ 07:33:27  3. Filling Table1 XLSX with data successed
+ 07:33:27  4. Filling Table12 XLSX with data successed
+ 07:33:31  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx
+ 07:33:31  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx успешно сохранен
+ 07:33:33  5. Saving XLSX file successed
+ 07:34:20  Application Started
+ 07:34:20  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 07:34:26  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\проверка спязи.csv
+ 07:34:26  1. Converting CSV to XLSX successed
+ 07:34:26  2. Converting Data from XLSX successed
+ 07:34:26  3. Filling Table1 XLSX with data successed
+ 07:34:26  4. Filling Table12 XLSX with data successed
+ 07:34:31  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx
+ 07:34:31  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx успешно сохранен
+ 07:34:32  5. Saving XLSX file successed
+ 07:36:05  Application Started
+ 07:36:06  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 07:36:11  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\проверка спязи.csv
+ 07:36:11  1. Converting CSV to XLSX successed
+ 07:36:11  2. Converting Data from XLSX successed
+ 07:36:11  3. Filling Table1 XLSX with data successed
+ 07:36:11  4. Filling Table12 XLSX with data successed
+ 07:36:16  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx
+ 07:36:16  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx успешно сохранен
+ 07:36:17  5. Saving XLSX file successed
+ 07:36:54  Application Started
+ 07:36:54  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 07:37:00  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\проверка спязи.csv
+ 07:37:00  1. Converting CSV to XLSX successed
+ 07:37:00  2. Converting Data from XLSX successed
+ 07:37:00  3. Filling Table1 XLSX with data successed
+ 07:37:00  4. Filling Table12 XLSX with data successed
+ 07:37:03  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx
+ 07:37:03  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx успешно сохранен
+ 07:37:05  5. Saving XLSX file successed
+ 07:37:16  Application closed
+
+------------------------------------------------
+ 07:50:49  Application Started
+ 07:50:49  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 07:50:54  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\проверка спязи.csv
+ 07:50:54  1. Converting CSV to XLSX successed
+ 07:50:54  2. Converting Data from XLSX successed
+ 07:50:54  3. Filling Table1 XLSX with data successed
+ 07:50:54  4. Filling Table12 XLSX with data successed
+ 07:50:58  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx
+ 07:50:58  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx успешно сохранен
+ 07:51:00  5. Saving XLSX file successed
+ 07:54:57  Application Started
+ 07:54:57  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 07:55:00  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\проверка спязи.csv
+ 07:55:00  1. Converting CSV to XLSX successed
+ 07:55:00  2. Converting Data from XLSX successed
+ 07:55:00  3. Filling Table1 XLSX with data successed
+ 07:55:00  4. Filling Table12 XLSX with data successed
+ 07:55:06  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx
+ 07:55:06  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx успешно сохранен
+ 07:55:07  5. Saving XLSX file successed
+ 07:55:24  Application Started
+ 07:55:24  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 07:55:27  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\проверка спязи.csv
+ 07:55:27  1. Converting CSV to XLSX successed
+ 07:55:27  2. Converting Data from XLSX successed
+ 07:55:27  3. Filling Table1 XLSX with data successed
+ 07:55:27  4. Filling Table12 XLSX with data successed
+ 07:55:30  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx
+ 07:55:30  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx успешно сохранен
+ 07:55:31  5. Saving XLSX file successed
+ 07:56:19  Application Started
+ 07:56:19  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 07:56:22  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\проверка спязи.csv
+ 07:56:22  1. Converting CSV to XLSX successed
+ 07:56:22  2. Converting Data from XLSX successed
+ 07:56:22  3. Filling Table1 XLSX with data successed
+ 07:56:22  4. Filling Table12 XLSX with data successed
+ 07:56:25  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx
+ 07:56:25  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx успешно сохранен
+ 07:56:31  5. Saving XLSX file successed
+ 08:01:05  Application Started
+ 08:01:05  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 08:01:07  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\проверка спязи.csv
+ 08:01:07  1. Converting CSV to XLSX successed
+ 08:01:07  2. Converting Data from XLSX successed
+ 08:01:07  3. Filling Table1 XLSX with data successed
+ 08:01:07  4. Filling Table12 XLSX with data successed
+ 08:01:10  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx
+ 08:01:10  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultпроверкасвязи.xlsx успешно сохранен
+ 08:01:11  5. Saving XLSX file successed
+ 08:02:17  Application Started
+ 08:02:17  Can't create log folder because of = [WinError 183] Невозможно создать файл, так как он уже существует: 'logs'
+ 08:02:21  Для преобразования выбран .csv файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\список 1.csv
+ 08:02:21  1. Converting CSV to XLSX successed
+ 08:02:21  2. Converting Data from XLSX successed
+ 08:02:21  3. Filling Table1 XLSX with data successed
+ 08:02:21  4. Filling Table12 XLSX with data successed
+ 08:02:24  Для сохранения выбран .xslx файл: C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultсписок1.xlsx
+ 08:02:24  Файл C:\Users\Titovskiysa\Desktop\Документы участок\Python\Python (раб стола)\Python\CSV_converter\v.0.2\Исх данные для анализа\Списки для тестирвоания_22.08.2023\resultсписок1.xlsx успешно сохранен
+ 08:02:25  5. Saving XLSX file successed
+ 08:02:48  Application closed
+
+------------------------------------------------
